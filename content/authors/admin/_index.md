@@ -1,75 +1,65 @@
 ---
 # Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Lucia Ramirez Navarro
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Professor of Artificial Intelligence
+# Role/position/tagline
+role: Master student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: ""
+- name: Sanger Institute
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Student at the Sanger Institute. Interested in genomics, bioinformatics and immune system. 
 
+# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genomics 
+- Bioinformatics
+- Immune system
+- Gene regulation
 
+
+# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPhil in Biological Science 
+    institution: Sanger Institute
+    year: 2020
+  - course: Bachelor in Genomic Sciences (LCG)
+    institution: National Autonomous University of Mexico (UNAM)
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/luci_rmz
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#  link: media/Cv_LuciaRamirez.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Email for Contact widget or Gravatar
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Lucia Ramirez Navarro. I recently graduated from the [Undergraduate Program on Genomic Sciences](https://www.lcg.unam.mx/) from the National Autonomous University of Mexico (UNAM) and I am currently doing the MPhil in Biological Science (Sanger Institute) with [Dr Gosia Trynka](https://www.sanger.ac.uk/group/trynka-faculty/). Previously, I was working with [Dr. Alejandra Medina Rivera](https://liigh.unam.mx/profile/dra-alejandra-medina-rivera/) to characterize regulatory variants in promoters with enhancer activity and their relation with human diseases. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
