@@ -37,7 +37,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://github.com/lucia-ramirez/My_Website/blob/master/content/talk/ISMB2020_Epromoters/Submission262_RamirezNavarroLucia_RegSys.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
