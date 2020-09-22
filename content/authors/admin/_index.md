@@ -10,10 +10,10 @@ role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sanger Institute
+- name: Wellcome Sanger Institute 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student at the Sanger Institute. Interested in genomics, bioinformatics and immune system. 
+bio: Student at the Wellcome Sanger Institute. Interested in genomics, bioinformatics and immune system. 
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: MPhil in Biological Science 
-    institution: Sanger Institute
+    institution: Wellcome Sanger Institute 
     year: 2020
   - course: Bachelor in Genomic Sciences (LCG)
     institution: National Autonomous University of Mexico (UNAM)
