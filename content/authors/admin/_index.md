@@ -17,10 +17,10 @@ bio: Student at the Wellcome Sanger Institute. Interested in genomics, bioinform
 
 # Interests to show in About widget
 interests:
-- Genomics 
 - Bioinformatics
 - Immune system
-- Gene regulation
+- Translational medicine
+- Genomics 
 
 
 # Education to show in About widget
